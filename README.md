@@ -31,7 +31,7 @@ The game runs at 640×480 resolution over VGA at 60 Hz and features moving obsta
 
 ## Features
 
-- 🎮 **Faithful Frogger gameplay** — cars, logs, turtles, lily pads, lives, score, and countdown timer
+- 🎮 **Frogger gameplay** — cars, logs, turtles, lily pads, lives, score, and countdown timer
 - 📺 **VGA display at 640×480 @ 60 Hz** — smooth, glitch-free rendering
 - 🐸 **Sprite-based graphics** — all artwork hand-drawn in MS Paint, converted to `.mem` files via a custom Python script
 - 🔄 **Smooth object wrapping** — vehicles and logs wrap seamlessly across screen boundaries using VGA porch regions
